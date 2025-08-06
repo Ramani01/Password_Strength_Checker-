@@ -1,0 +1,6 @@
+# Password Strength Checker
+# No external dependencies required
+# Works with Python 3.8+
+
+# Optional (for colored output)
+colorama>=0.4.6
